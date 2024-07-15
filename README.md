@@ -5,7 +5,7 @@ Done by a group of 2
 
 Team Name: Code of Duty
 
-Members: Navaneeth Gowda T
+Members: Navaneeth Gowda T,
         Sudheendra H R.
         
 The given link below has the video description of our project.
